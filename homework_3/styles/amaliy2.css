@@ -1,0 +1,18 @@
+  .list{
+    text-align: end;
+    
+
+
+  }
+  .first{
+    display: inline;
+    list-style: none;
+    margin-right: 15px;
+    color: rgb(131, 126, 126);
+
+  }
+  .home{
+    color: black;
+    font-weight: 900;
+  
+}

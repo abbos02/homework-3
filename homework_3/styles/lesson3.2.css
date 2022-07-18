@@ -1,0 +1,18 @@
+.rasm{
+    margin: 0 535px;
+    
+ 
+    border-radius: 15px;
+}
+.h1{
+    text-align: center;
+}
+.p{
+    text-align: center;
+    margin: 0 auto;
+    font-weight: 700;
+    border: 3px solid aqua;
+    border-radius: 5px;
+    background-color: aqua;
+    width: 21.5%;
+}

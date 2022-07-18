@@ -1,0 +1,18 @@
+.h1{
+    text-align: center;
+
+
+}
+p{
+    text-align: center;
+    margin: 0 auto;
+    font-weight: 700;
+    bordor: 3px solid red;
+    border-radius: 5px;
+    background-color: rgb(255, 0, 212);
+    width: 22%;
+}
+.rasm{
+    margin: 0 535px;
+    width: 22%;
+}
